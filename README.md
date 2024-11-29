@@ -62,6 +62,6 @@ Add calendar-based task tracking.
 
 Begin comprehensive testing and debugging.
 
-Note
+#### Note
 
 The Task Management System is a work in progress. This ongoing project reflects my dedication to solving real-world challenges and gaining valuable hands-on experience in full-stack development. It will be updated in my portfolio as new features are completed and the system evolves.
