@@ -19,7 +19,7 @@ Jwatha Institution - Procurement - Feb 2023 - Nov 2023
 
 The Task Management System is a cross-platform application designed to enhance task management and collaboration for teams and individuals. The project aims to provide an intuitive platform for creating, assigning, and tracking tasks, improving productivity and team efficiency. This project is currently under development as part of my capstone coursework at Jubail Industrial College.
 
-## Key Features (In Progress)
+#### Key Features (In Progress)
 
 Task Management: Simplified task creation, prioritization, and tracking.
 
@@ -31,7 +31,7 @@ Role-Based Access: Tailored functionalities for administrators, team leaders, an
 
 Offline Capability: Local database functionality to ensure usability without an internet connection, with plans for cloud integration.
 
-## Development Process The project followed the System Development Life Cycle (SDLC):
+#### Development Process The project followed the System Development Life Cycle (SDLC):
 
 Planning: Identified challenges in existing task management processes and defined project objectives.
 
@@ -43,7 +43,7 @@ Implementation: Developed the system using modern technologies, ensuring offline
 
 Testing: Conducted comprehensive testing to ensure usability, stability, and reliability.
 
-## Current Status
+#### Current Status
 
 The project is actively being developed, and the following milestones have been completed:
 
@@ -53,7 +53,7 @@ Initial implementation of local database and task management functionality.
 
 Basic role-based user access.
 
-## Next Steps:
+#### Next Steps:
 
 Complete task assignment and collaboration modules.
 
