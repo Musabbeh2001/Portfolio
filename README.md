@@ -48,19 +48,19 @@ Testing: Conducted comprehensive testing to ensure usability, stability, and rel
 
 The project is actively being developed, and the following milestones have been completed:
 
-UI/UX design for core interfaces.
+- UI/UX design for core interfaces.
 
-Initial implementation of local database and task management functionality.
+- Initial implementation of local database and task management functionality.
 
-Basic role-based user access.
+- Basic role-based user access.
 
 #### Next Steps:
 
-Complete task assignment and collaboration modules.
+- Complete task assignment and collaboration modules.
 
-Add calendar-based task tracking.
+- Add calendar-based task tracking.
 
-Begin comprehensive testing and debugging.
+- Begin comprehensive testing and debugging.
 
 #### Note
 
