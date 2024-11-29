@@ -16,7 +16,7 @@ Jubail Industrial College, Bachelor of science, Management Information Systems (
 - Conducted market research and supplier evaluations to identify potential vendors, negotiate contracts, and maintain a qualified supplier base.
 
 ### Project
-- Task Management System
+#### Task Management System
 
 The Task Management System is a cross-platform application designed to enhance task management and collaboration for teams and individuals. The project aims to provide an intuitive platform for creating, assigning, and tracking tasks, improving productivity and team efficiency. This project is currently under development as part of my capstone coursework at Jubail Industrial College.
 
